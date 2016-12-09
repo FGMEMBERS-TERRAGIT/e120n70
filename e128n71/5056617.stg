@@ -20,3 +20,5 @@ OBJECT_SHARED Models/Aircraft/Mi-6PS-lowpoly.xml 128.8924095 71.6980984 15.02 84
 OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 128.8931715 71.7028962 14.17 312
 OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 128.8935782 71.7037472 13.84 164
 OBJECT_SHARED Models/Airport/hw-hangar-movable-a.xml 128.89129 71.6962521 15.58 259
+OBJECT_SHARED Models/Aircraft/an-12-grau.ac 128.8968959 71.7027323 13.18 0
+OBJECT_SHARED Models/Aircraft/an-12-yellow.ac 128.8967158 71.7022621 13.31 0
